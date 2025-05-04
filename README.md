@@ -3,7 +3,8 @@
 A simple yet fun **Tic-Tac-Toe** web game built using HTML, CSS, and JavaScript. It features a clean UI, popup winner notification, and game reset functionality.
 
 ## 🔗 Live Demo
-> _Coming soon... (You can host it on GitHub Pages, Netlify, or Vercel)_
+> Deployment url : -
+> https://akashkumar2011.github.io/tic-tac-toe-game/
 
 ## 📁 Project Structure
 
@@ -21,9 +22,8 @@ A simple yet fun **Tic-Tac-Toe** web game built using HTML, CSS, and JavaScript.
 
 - **HTML5** – Markup
 - **CSS3** – Styling and layout
-- **JavaScript (Vanilla)** – Game logic and DOM manipulation
+- **JavaScript** – Game logic and DOM manipulation
 
-## 📸 Screenshots
 
 > (Add a screenshot of your game UI here for better visualization)
 
